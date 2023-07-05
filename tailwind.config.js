@@ -7,17 +7,7 @@ module.exports = {
   ],
   darkMode: ["class", '[data-theme="dark"]'],
   daisyui:{
-    themes:[
-      {
-        light: {
-          // eslint-disable-next-line @typescript-eslint/no-var-requires
-          ...require("daisyui/src/colors/themes")["[data-theme=dark]"],
-          ".btn": {
-            "@apply duration-100": "",
-          }
-        }
-      }
-    ]
+    themes: ["dark"]
   },
   theme: {
     extend: {
