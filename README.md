@@ -8,7 +8,7 @@
 
 > Sorting Algorithm Visualizer is a fun Next.js app that lets you visualize sorting algorithms in action. Playfully explore and understand algorithms like Bubble Sort, Insertion Sort, Merge Sort, and more, as animated visuals demonstrate their step-by-step execution. Perfect for learning and entertainment!
 
-### ✨ [Demo](soon)
+### ✨ [Demo](https://sorting-algorithm-visualiser-orcin.vercel.app/)
 
 ## Development
 First, run the development server:
